@@ -12,3 +12,6 @@ python:
 - 3.7.* *_cpython
 python_impl:
 - cpython
+zip_keys:
+- - python
+  - python_impl
